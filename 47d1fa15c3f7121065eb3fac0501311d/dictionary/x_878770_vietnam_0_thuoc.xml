@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="10237695c3f7121065eb3fac0501316c" label="Thuốc" max_length="40" name="x_878770_vietnam_0_thuoc" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ID" max_length="1000" name="id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phân Loại" max_length="40" name="phan_loai" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nhóm Thuốc" max_length="40" name="nhom_thuoc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nước Đăng Ký" max_length="40" name="nuoc_dk" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Source Data" max_length="1024" name="source_data" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Hoạt Chất" max_length="4000" name="hoat_chat" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Tên Thuốc" max_length="1000" name="ten_thuoc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Source PDF" max_length="1024" name="source_pdf" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Meta Data" max_length="40" name="meta_data" type="string"/>
+    </element>
+</database>
