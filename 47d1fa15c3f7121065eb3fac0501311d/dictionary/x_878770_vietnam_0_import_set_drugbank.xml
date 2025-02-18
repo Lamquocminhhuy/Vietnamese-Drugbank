@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="62a7be1dc3f7121065eb3fac05013150" extends="sys_import_set_row" label="Import Drugbank Data" max_length="40" name="x_878770_vietnam_0_import_set_drugbank" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_phanloai" label="Phanloai" max_length="40" name="u_phanloai" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_nuocdk" label="Nuocdk" max_length="40" name="u_nuocdk" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_meta" label="Meta" max_length="50" name="u_meta" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_nhomthuoc" label="Nhomthuoc" max_length="40" name="u_nhomthuoc" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_hoatchat" label="Hoatchat" max_length="87" name="u_hoatchat" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_id" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_tenthuoc" label="Tenthuoc" max_length="40" name="u_tenthuoc" type="string"/>
+    </element>
+</database>

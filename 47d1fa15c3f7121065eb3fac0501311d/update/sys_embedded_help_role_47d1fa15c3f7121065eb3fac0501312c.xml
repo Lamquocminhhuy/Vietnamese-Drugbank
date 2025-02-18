@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_878770_vietnam_0.user" name="x_878770_vietnam_0.user">03d1fa15c3f7121065eb3fac0501312b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>lamquocminhhuy</sys_created_by>
+        <sys_created_on>2025-02-17 20:43:46</sys_created_on>
+        <sys_id>47d1fa15c3f7121065eb3fac0501312c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>03d1fa15c3f7121065eb3fac0501312b</sys_name>
+        <sys_package display_value="Vietnamese DrugBank" source="x_878770_vietnam_0">47d1fa15c3f7121065eb3fac0501311d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vietnamese DrugBank">47d1fa15c3f7121065eb3fac0501311d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_47d1fa15c3f7121065eb3fac0501312c</sys_update_name>
+        <sys_updated_by>lamquocminhhuy</sys_updated_by>
+        <sys_updated_on>2025-02-17 20:43:46</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
